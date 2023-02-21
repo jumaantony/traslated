@@ -1,0 +1,1364 @@
+Uri: https://www.classcentral.com/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@archisha
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@archisha.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@bob
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@bob.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@dhawal
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@dhawal.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@Elham
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@Elham.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@fabio
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@fabio.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@kinjalvora
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@kinjalvora.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@kiri
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@kiri.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@manoel
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@manoel.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@pat
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@pat.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@ruima
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@ruima.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@scott
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@scott.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@suparn
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@suparn.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/@vishnu
+File Name: C:\Downloaded Web Sites\www.classcentral.com\@vishnu.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/about
+File Name: C:\Downloaded Web Sites\www.classcentral.com\about.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/analytics.js
+File Name: C:\Downloaded Web Sites\www.classcentral.com\analytics.js
+Content Type: application/javascript
+
+Uri: https://www.classcentral.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000 Hours of Free LinkedIn Learning Courses with Free Certification"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Flinkedin-learning-free-learning-paths%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Flinked-learning-free-courses.png"%2C"providerName":"Class Central"%2C"summary":"137 courses and 7 learning paths offering free certificates%2C as well as 378 free courses%2C for a total of about 1000 hours of free online learning."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-30.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000 Hours of Free LinkedIn Learning Courses with Free Certification"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Flinkedin-learning-free-learning-paths%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Flinked-learning-free-courses.png"%2C"providerName":"Class Central"%2C"summary":"137 courses and 7 learning paths offering free certificates%2C as well as 378 free courses%2C for a total of about 1000 hours of free online learning."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-61.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000 Ivy League Free Online Courses"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fcollection%5C%2Fivy-league-moocs"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fcollections%5C%2Fcollection-ivy-league-moocs-social.jpg"%2C"providerName":"Class Central"%2C"summary":"Free online courses from Brown%2C Columbia%2C Cornell%2C Dartmouth%2C Harvard%2C Penn%2C Princeton%2C and Yale."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-22.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000 Ivy League Free Online Courses"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fcollection%5C%2Fivy-league-moocs"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fcollections%5C%2Fcollection-ivy-league-moocs-social.jpg"%2C"providerName":"Class Central"%2C"summary":"Free online courses from Brown%2C Columbia%2C Cornell%2C Dartmouth%2C Harvard%2C Penn%2C Princeton%2C and Yale."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-5.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000%2B Free Developer and IT Certifications"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-developer-it-certifications%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2022%5C%2F02%5C%2Fdev-it-certs.jpg"%2C"providerName":"Class Central"%2C"summary":"Massive list of free certificates and badges for developers in data science%2C software development%2C and more"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-47.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000%2B Free Developer and IT Certifications"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-developer-it-certifications%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2022%5C%2F02%5C%2Fdev-it-certs.jpg"%2C"providerName":"Class Central"%2C"summary":"Massive list of free certificates and badges for developers in data science%2C software development%2C and more"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-11.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000s of Free Certificate Courses"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F03%5C%2Ffree-certificates.png"%2C"providerName":"Class Central"%2C"summary":"Thousands of courses with free certificates and badges offered by MOOC platforms%2C universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-16.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000s of Free Certificate Courses"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F03%5C%2Ffree-certificates.png"%2C"providerName":"Class Central"%2C"summary":"Thousands of courses with free certificates and badges offered by MOOC platforms%2C universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-15.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000s of Free Certificates"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png"%2C"providerName":"Class Central"%2C"summary":"1000s of courses with free certificates and badges from universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-10.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"1000s of Free Certificates"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png"%2C"providerName":"Class Central"%2C"summary":"1000s of courses with free certificates and badges from universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-70.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"700%2B Free Google Certifications"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png"%2C"providerName":"Class Central"%2C"summary":"700%2B free Google Classes with free certifications on different Google learning platforms. Topics include online business%2C digital marketing%2C Google analytics%2C and Google cloud."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-2.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"700%2B Free Google Certifications"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png"%2C"providerName":"Class Central"%2C"summary":"700%2B free Google Classes with free certifications on different Google learning platforms. Topics include online business%2C digital marketing%2C Google analytics%2C and Google cloud."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-59.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Accelerated Management Program. 8-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459753%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"Yale School of Management%2C Executive Education"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fyale-som-horz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Fyale-mnb.jpg"%2C"summary":"Explore fundamental management topics such as decision-making using quantitative models%2C developing a competitive strategy and leveraging social networks%2C with industry insights from Yale SOM faculty."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-80.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a cybersecurity analyst or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Fcyber-security-career-track%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-cybersecurity-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Dreaming of an exciting%2C well-paid career%3F Become a cybersecurity analyst with no previous coding experience in this remote bootcamp. Our on-demand curriculum%2C 1:1 mentorship and career coaching will land your dream job or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-12.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a cybersecurity analyst or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Fcyber-security-career-track%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-cybersecurity-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Dreaming of an exciting%2C well-paid career%3F Become a cybersecurity analyst with no previous coding experience in this remote bootcamp. Our on-demand curriculum%2C 1:1 mentorship and career coaching will land your dream job or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-8.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a data scientist or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ffoundations-to-core-data-science%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-data-science-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Dreaming of a fulfilling%2C well-paid data science career%3F Become a data scientist with no previous data experience in this remote bootcamp. Our on-demand curriculum%2C 1:1 mentorship and career coaching will land your dream job or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-26.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a data scientist or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ffoundations-to-core-data-science%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-data-science-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Dreaming of a fulfilling%2C well-paid data science career%3F Become a data scientist with no previous data experience in this remote bootcamp. Our on-demand curriculum%2C 1:1 mentorship and career coaching will land your dream job or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-45.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a full stack developer or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ffoundations-to-core-software-engineering%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-software-engineering-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Go from beginner to full stack developer at your pace in this remote bootcamp. Our courses don't stop at graduation%2C get 1:1 mentorship and career coaching from day one of the course%2C until the first day of your new job - or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-63.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a full stack developer or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ffoundations-to-core-software-engineering%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-software-engineering-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Go from beginner to full stack developer at your pace in this remote bootcamp. Our courses don't stop at graduation%2C get 1:1 mentorship and career coaching from day one of the course%2C until the first day of your new job - or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-13.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a UI%5C%2FUX designer or get your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Fui-ux-design-career-track%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-ux-ui-design-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Go from beginner to UI%5C%2FUX designer at your own pace in this remote bootcamp. Our courses don't stop at graduation%2C get 1:1 mentorship and career coaching from day one of the course%2C until the first day of your new job - or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Become a UI%5C%2FUX designer or get your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Fui-ux-design-career-track%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"%5C%2Fads%5C%2Fspringboard-ux-ui-design-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Go from beginner to UI%5C%2FUX designer at your own pace in this remote bootcamp. Our courses don't stop at graduation%2C get 1:1 mentorship and career coaching from day one of the course%2C until the first day of your new job - or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-62.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Best Courses Guides"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-52.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Best Courses Guides"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-56.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Blockchain Essentials Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fblockchain-essentials%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Blockchain%2520Essentials%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fblockchain-essentials-560x315.jpg"%2C"summary":"In this certificate program you will learn the mechanics of blockchain technology and understand applications and implications of blockchain for your business."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-73.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Blockchain Essentials Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fblockchain-essentials%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Blockchain%2520Essentials%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fblockchain-essentials-560x315.jpg"%2C"summary":"In this certificate program you will learn the mechanics of blockchain technology and understand applications and implications of blockchain for your business."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-89.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Class Central%5Cu2019s Best Courses Guides"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-54.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Cybersecurity Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fcybersecurity%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Cybersecurity%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fcybersecurity-560x315.jpg"%2C"summary":"Develop a practical literacy in cybersecurity. Learn the principles needed to understand the design and analysis of secure systems."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-19.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Cybersecurity Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fcybersecurity%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Cybersecurity%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fcybersecurity-560x315.jpg"%2C"summary":"Develop a practical literacy in cybersecurity. Learn the principles needed to understand the design and analysis of secure systems."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-24.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Analysis for Management. 8-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459750%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"The London School of Economics and Political Science"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Flse-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-dam-hz.png"%2C"summary":"Explore how data-driven models can improve business decision making in the 8-week Data Analysis for Management online certificate course from the London School of Economics and Political Science."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-57.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Analysis for Management. 8-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459750%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"The London School of Economics and Political Science"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Flse-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-dam-hz.png"%2C"summary":"Explore how data-driven models can improve business decision making in the 8-week Data Analysis for Management online certificate course from the London School of Economics and Political Science."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-87.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Science Principles"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fdata-science-principles%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DDSRY%26utm_content%3D44980"%2C"imageUrl":"%5C%2Fads%5C%2Fho-data-science-principles.jpg"%2C"providerName":"Harvard Online"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png"%2C"institutionName":"Harvard Online"%2C"summary":"This course gives you an overview of data science with a code- and math-free introduction to prediction%2C causality%2C data wrangling%2C privacy%2C and ethics."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-35.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Science Principles"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fdata-science-principles%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DDSRY%26utm_content%3D44980"%2C"imageUrl":"%5C%2Fads%5C%2Fho-data-science-principles.jpg"%2C"providerName":"Harvard Online"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png"%2C"institutionName":"Harvard Online"%2C"summary":"This course gives you an overview of data science with a code- and math-free introduction to prediction%2C causality%2C data wrangling%2C privacy%2C and ethics."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-55.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Science with SQL and Tableau Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fdata-science%5C%2Fdata-science-with-sql-and-tableau%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Ddatascience_Data%2520Science%2520with%2520SQL%2520and%2520Tableau%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fdata-science-with-sql-and-tableau-560x315.jpg"%2C"summary":"This certificate program is designed to help you analyze data in a relational database and develop your understanding of the relationship between SQL and data visualizations."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-67.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Science with SQL and Tableau Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fdata-science%5C%2Fdata-science-with-sql-and-tableau%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Ddatascience_Data%2520Science%2520with%2520SQL%2520and%2520Tableau%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fdata-science-with-sql-and-tableau-560x315.jpg"%2C"summary":"This certificate program is designed to help you analyze data in a relational database and develop your understanding of the relationship between SQL and data visualizations."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-74.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Digital Business Strategy with MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459758%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-dbs-hz.png"%2C"summary":"Explore the impact of transformative tech in the 6-week MIT Digital Business Strategy online short course."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-32.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Digital Business Strategy with MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459758%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-dbs-hz.png"%2C"summary":"Explore the impact of transformative tech in the 6-week MIT Digital Business Strategy online short course."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-76.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Digital Transformation. 6-Week Online Short Program"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459752%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Fmit-its.jpg"%2C"summary":"As technology continues to reshape industries%2C it's important to understand what digital changes to prioritise in your own business. Create a roadmap for digital transformation%2C online with MIT."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-20.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Digital Transformation. 6-Week Online Short Program"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459752%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Fmit-its.jpg"%2C"summary":"As technology continues to reshape industries%2C it's important to understand what digital changes to prioritise in your own business. Create a roadmap for digital transformation%2C online with MIT."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-48.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Farm to Fork: Sustainable Food Production in a Changing Environment"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.futurelearn.com%5C%2Fcourses%5C%2Fsustainable-agriculture-in-a-changing-environment%3Futm_campaign%3Deitf_bau%26utm_medium%3Dpaid_social%26utm_source%3Dclasscentral"%2C"providerName":"EIT Food"%2C"institutionName":"EIT Food"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Feit-hz.jpg"%2C"imageUrl":"https:%5C%2F%5C%2Fugc.futurelearn.com%5C%2Fuploads%5C%2Fimages%5C%2Fc4%5C%2Ffd%5C%2Fthumbnail_c4fd1105-10fe-4135-bf0c-49440130ad2b.jpg"%2C"summary":"Understand how food goes from farm to fork: explore food security%2C supply chains%2C food production and agriculture."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-68.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Farm to Fork: Sustainable Food Production in a Changing Environment"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.futurelearn.com%5C%2Fcourses%5C%2Fsustainable-agriculture-in-a-changing-environment%3Futm_campaign%3Deitf_bau%26utm_medium%3Dpaid_social%26utm_source%3Dclasscentral"%2C"providerName":"EIT Food"%2C"institutionName":"EIT Food"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Feit-hz.jpg"%2C"imageUrl":"https:%5C%2F%5C%2Fugc.futurelearn.com%5C%2Fuploads%5C%2Fimages%5C%2Fc4%5C%2Ffd%5C%2Fthumbnail_c4fd1105-10fe-4135-bf0c-49440130ad2b.jpg"%2C"summary":"Understand how food goes from farm to fork: explore food security%2C supply chains%2C food production and agriculture."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-50.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Figma Design Essentials"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"Hi there - my name is Dan Scott %26 welcome to Figma Essentials. Together - you and me - are going to learn everything you need to get started working as a UX Designer using Figma."%2C"frequency":5%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-40.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Figma Design Essentials"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FDVYAgq"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-figma-design-essentials-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"Hi there - my name is Dan Scott %26 welcome to Figma Essentials. Together - you and me - are going to learn everything you need to get started working as a UX Designer using Figma."%2C"frequency":5%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-21.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"FinTech Online Short Course. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459751%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"Harvard's VPAL"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-vpal-hz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Fhar-fih.jpg"%2C"summary":"Learn to critically assess the future of FinTech by examining the actors driving future innovation%2C and discover which technologies will have a lasting impact on the financial industry."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-7.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"FinTech Online Short Course. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459751%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"Harvard's VPAL"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-vpal-hz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Fhar-fih.jpg"%2C"summary":"Learn to critically assess the future of FinTech by examining the actors driving future innovation%2C and discover which technologies will have a lasting impact on the financial industry."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-85.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Food for Thought: The Relationship Between Food%2C Gut and Brain"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.futurelearn.com%5C%2Fcourses%5C%2Ffood-for-thought%3Futm_campaign%3Deitf_bau%26utm_medium%3Dpaid_social%26utm_source%3Dclasscentral"%2C"providerName":"EIT Food"%2C"institutionName":"EIT Food"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Feit-hz.jpg"%2C"imageUrl":"https:%5C%2F%5C%2Fugc.futurelearn.com%5C%2Fuploads%5C%2Fimages%5C%2F47%5C%2F2e%5C%2Fthumbnail_472ee5af-d085-4fc6-8023-d038cc421508.jpg"%2C"summary":"The gut and brain are very closely linked. Explore how neurology%2C the microbiome and more interact to affect health."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-46.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Food for Thought: The Relationship Between Food%2C Gut and Brain"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.futurelearn.com%5C%2Fcourses%5C%2Ffood-for-thought%3Futm_campaign%3Deitf_bau%26utm_medium%3Dpaid_social%26utm_source%3Dclasscentral"%2C"providerName":"EIT Food"%2C"institutionName":"EIT Food"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Feit-hz.jpg"%2C"imageUrl":"https:%5C%2F%5C%2Fugc.futurelearn.com%5C%2Fuploads%5C%2Fimages%5C%2F47%5C%2F2e%5C%2Fthumbnail_472ee5af-d085-4fc6-8023-d038cc421508.jpg"%2C"summary":"The gut and brain are very closely linked. Explore how neurology%2C the microbiome and more interact to affect health."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-72.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Fundamentals of Software Engineering"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1592965%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-fundamentals-of-software-engineering.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fcmu-hz.png"%2C"institutionName":"Carnegie Mellon University"%2C"summary":"10-week online program is designed to explore a specific aspect of software engineering fundamentals. Cumulatively%2C the modules create an understanding of software engineering%2C which participants will demonstrate by contributing to a real-world software project."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-69.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Hospitality Management Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fhospitality-and-foodservice-management%5C%2Fhospitality-management%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dhospldrshp_Hospitality%2520Management%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fhospitality-management-560x315.jpg"%2C"summary":"Learn how to manage a world-class hotel operation from one of the world%5Cu2019s most prestigious hospitality schools."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-14.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Hospitality Management Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fhospitality-and-foodservice-management%5C%2Fhospitality-management%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dhospldrshp_Hospitality%2520Management%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fhospitality-management-560x315.jpg"%2C"summary":"Learn how to manage a world-class hotel operation from one of the world%5Cu2019s most prestigious hospitality schools."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-28.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"How to Organize your your Workflow to Maximize Productivity"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"In this second class of my series on improving our personal productivity I want to further explore the systems%2C workflows and organization techniques we can use to maximize our output."%2C"frequency":5%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-33.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"How to Organize your your Workflow to Maximize Productivity"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"In this second class of my series on improving our personal productivity I want to further explore the systems%2C workflows and organization techniques we can use to maximize our output."%2C"frequency":5%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-31.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Intro to Procreate: Illustrating on the iPad"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"In this class youll learn how to use Procreate on the iPad Pro with ease. By the time class is over creating digital illustrations will feel intuitive and natural as drawing with pencil and paper. Class covers all the hidden tools and gestures you need to make creating digital illustrations easy and fun. Plus youll learn how to make and share a cool time lapse video of your art!"%2C"frequency":5%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-4.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Intro to Procreate: Illustrating on the iPad"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2F7mELrO"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-intro-to-procreate-illustrating-on-the-ipad-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"In this class youll learn how to use Procreate on the iPad Pro with ease. By the time class is over creating digital illustrations will feel intuitive and natural as drawing with pencil and paper. Class covers all the hidden tools and gestures you need to make creating digital illustrations easy and fun. Plus youll learn how to make and share a cool time lapse video of your art!"%2C"frequency":5%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"iPhone Photography: How to Take Pro Photos On Your Phone"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FmgLr3Z"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-iphone-photography-how-to-take-pro-photos-on-your-phone-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"This online photography course will teach you everything you need to be a professional digital photographer with nothing more than an iPhone or similar smartphone. You'll learn all the basics of professional iPhone photography in this course as well as plenty of tips and tricks that you can use during every day shooting to make your photos stand out from the rest."%2C"frequency":5%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-25.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"iPhone Photography: How to Take Pro Photos On Your Phone"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FmgLr3Z"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-iphone-photography-how-to-take-pro-photos-on-your-phone-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"This online photography course will teach you everything you need to be a professional digital photographer with nothing more than an iPhone or similar smartphone. You'll learn all the basics of professional iPhone photography in this course as well as plenty of tips and tricks that you can use during every day shooting to make your photos stand out from the rest."%2C"frequency":5%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-42.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Launch a tech sales career or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ftech-sales-career-track%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"ads%5C%2Fspringboard-tech-sales-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Are you a problem-solver%3F Relationship builder%3F You can start a well-paid tech sales career in just 12 weeks with no prior sales experience. Our remote curriculum%2C live classes and 1:1 career coaching will land your dream job%2C or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-66.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Launch a tech sales career or your money back."%2C"courseUrl":"https:%5C%2F%5C%2Fwww.springboard.com%5C%2Fcourses%5C%2Ftech-sales-career-track%5C%2F%3Futm_source%3Dclasscentral%26utm_medium%3Daffiliates%26utm_campaign%3Dclasscentral2022"%2C"imageUrl":"ads%5C%2Fspringboard-tech-sales-hz.png"%2C"providerName":"Springboard"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fspringboard-hz.png"%2C"institutionName":"Springboard"%2C"summary":"Are you a problem-solver%3F Relationship builder%3F You can start a well-paid tech sales career in just 12 weeks with no prior sales experience. Our remote curriculum%2C live classes and 1:1 career coaching will land your dream job%2C or your money back. "%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-84.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Learn Blockchain Technologies from MIT faculty"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459754%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-bt-hz.png"%2C"summary":"Gain an in-depth understanding of bitcoin as an application of blockchain technology and how it can be used to solve business problems."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-83.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Learn Blockchain Technologies from MIT faculty"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459754%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-bt-hz.png"%2C"summary":"Gain an in-depth understanding of bitcoin as an application of blockchain technology and how it can be used to solve business problems."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-18.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Learn Cryptocurrency from MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459756%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-cryptocurrency-hz.png"%2C"summary":"Gain an understanding of crypto mining%2C markets%2C and exchanges and go beyond Bitcoin to explore other cryptocurrencies."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-86.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Learn Cryptocurrency from MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459756%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-cryptocurrency-hz.png"%2C"summary":"Gain an understanding of crypto mining%2C markets%2C and exchanges and go beyond Bitcoin to explore other cryptocurrencies."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-60.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Massive List of Thousands of Free Certificates"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png"%2C"providerName":"Class Central"%2C"summary":"1000s of courses with free certificates and badges from universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-9.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Massive List of Thousands of Free Certificates"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-certificates%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F12%5C%2Ffree-certificates-banner.png"%2C"providerName":"Class Central"%2C"summary":"1000s of courses with free certificates and badges from universities%2C companies%2C and nonprofits worldwide."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-82.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"MBA Essentials online certificate course"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459749%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"The London School of Economics and Political Science"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Flse-horz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Flse-pre.jpg"%2C"summary":"Access frameworks to analyse your current strategy%2C expand your finance knowledge and understand why organisational culture is an effective leadership tool. Study MBA Essentials with LSE."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-65.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"MBA Essentials online certificate course"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459749%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"The London School of Economics and Political Science"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Flse-horz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fget-smarter%5C%2Flse-pre.jpg"%2C"summary":"Access frameworks to analyse your current strategy%2C expand your finance knowledge and understand why organisational culture is an effective leadership tool. Study MBA Essentials with LSE."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-23.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"More Learning%2C Less Searching: Best Courses Guides"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-27.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"More Learning%2C Less Searching: Best Courses Guides"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-49.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Open Innovation"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.harvardonline.harvard.edu%5C%2Fcourse%5C%2Fopen-innovation%3Futm_medium%3Dpaid-leads%26utm_source%3Dclass-central%26utm_campaign%3DOPEN%26utm_content%3D44980"%2C"imageUrl":"%5C%2Fads%5C%2Fho-open-innovation.jpg"%2C"providerName":"Harvard Online"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-online-hz.png"%2C"institutionName":"Harvard Online"%2C"summary":"Learn strategies for finding the best ideas%2C solutions%2C and people necessary to solve your organization%5Cu2019s most difficult problems."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-36.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Professional Certificate in Coding: Full Stack Development with MERN"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1592960%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-professional-certificate-coding.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fmit-xpro-hz.png"%2C"institutionName":"MIT xPRO"%2C"summary":"32-week part-time program is designed to prepare you with the skills you will need to start your career in web and application development. It is organized into three main sections using the MERN stack: web development%2C front-end development%5C%2FReact%2C and back-end development."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-53.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Professional Certificate in Coding: Full Stack Development with MERN"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1592960%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-professional-certificate-coding.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fmit-xpro-hz.png"%2C"institutionName":"MIT xPRO"%2C"summary":"32-week part-time program is designed to prepare you with the skills you will need to start your career in web and application development. It is organized into three main sections using the MERN stack: web development%2C front-end development%5C%2FReact%2C and back-end development."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-79.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Programming with Python"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1587067%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-programming-python.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fcmu-hz.png"%2C"institutionName":"Carnegie Mellon University"%2C"summary":"10-week online program focused on writing code using common structures in the Python programming language%2C content is shared via recorded faculty videos and live office hours with learning facilitators."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-43.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Programming with Python"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1587067%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-programming-python.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fcmu-hz.png"%2C"institutionName":"Carnegie Mellon University"%2C"summary":"10-week online program focused on writing code using common structures in the Python programming language%2C content is shared via recorded faculty videos and live office hours with learning facilitators."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-88.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Project Management Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.ecornell.com%5C%2Fcertificates%5C%2Fproject-leadership-and-systems-design%5C%2Fproject-management%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dprjmgmt_Project%2520Management%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fproject-management-560x315.jpg"%2C"summary":"Learn proven strategies and practical%2C hands-on tools to drive successful project outcomes. Earn 50 project management education hours towards your PMP certification and exam."%2C"frequency":1%2C"tableId":"institutiontable"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-3.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Project Management Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.ecornell.com%5C%2Fcertificates%5C%2Fproject-leadership-and-systems-design%5C%2Fproject-management%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dprjmgmt_Project%2520Management%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fproject-management-560x315.jpg"%2C"summary":"Learn proven strategies and practical%2C hands-on tools to drive successful project outcomes. Earn 50 project management education hours towards your PMP certification and exam."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-75.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Python Programming Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fpython-programming%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Python%2520Programming%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fpython-programming-560x315.jpg"%2C"summary":"Master the core principles of Python and develop the ability to become a superior Python programmer. You will design%2C code%2C test%2C visualize%2C analyze%2C and debug Python functions and programs."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-6.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Python Programming Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fpython-programming%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_Python%2520Programming%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fpython-programming-560x315.jpg"%2C"summary":"Master the core principles of Python and develop the ability to become a superior Python programmer. You will design%2C code%2C test%2C visualize%2C analyze%2C and debug Python functions and programs."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-64.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Semrush SEO Crash Course with Brian Dean"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.semrush.com%5C%2Facademy%5C%2Fcourses%5C%2Fsemrush-seo-crash-course-with-brian-dean%5C%2F%3Futm_source%3Dexternal%26utm_medium%3Dbanner%26utm_campaign%3Dclasscentral%5C%2F"%2C"imageUrl":"%5C%2Fads%5C%2Fsemrush-seo-crash-course-hz.png"%2C"providerName":"Semrush"%2C"summary":"Get a tested battle-plan for driving more traffic to your website! In this actionable course%2C you%5Cu2019ll learn the key foundational steps you need to take in order to rank on Google."%2C"institutionLogo":"%5C%2Fads%5C%2Fsemrush-academy-hz.png"%2C"institutionName":"Semrush"%2C"frequency":2%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-38.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Semrush SEO Crash Course with Brian Dean"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.semrush.com%5C%2Facademy%5C%2Fcourses%5C%2Fsemrush-seo-crash-course-with-brian-dean%5C%2F%3Futm_source%3Dexternal%26utm_medium%3Dbanner%26utm_campaign%3Dclasscentral%5C%2F"%2C"imageUrl":"%5C%2Fads%5C%2Fsemrush-seo-crash-course-hz.png"%2C"providerName":"Semrush"%2C"summary":"Get a tested battle-plan for driving more traffic to your website! In this actionable course%2C you%5Cu2019ll learn the key foundational steps you need to take in order to rank on Google."%2C"institutionLogo":"%5C%2Fads%5C%2Fsemrush-academy-hz.png"%2C"institutionName":"Semrush"%2C"frequency":2%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-29.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Social Media Marketing Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fmarketing%5C%2Fsocial-media-marketing%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dmktg_Social%2520Media%2520Marketing%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fsocial-media-marketing-560x315.jpg"%2C"summary":"Throughout this certificate program%2C you will examine best practices to design a robust social marketing strategy and create brand-centered social content that aligns with your marketing objectives."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-17.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Social Media Marketing Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fmarketing%5C%2Fsocial-media-marketing%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dmktg_Social%2520Media%2520Marketing%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fsocial-media-marketing-560x315.jpg"%2C"summary":"Throughout this certificate program%2C you will examine best practices to design a robust social marketing strategy and create brand-centered social content that aligns with your marketing objectives."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-77.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Stop Procrastinating%2C Start Learning"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-44.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Stop Procrastinating%2C Start Learning"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fcategory%5C%2Fbest-courses%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Fimages%5C%2Fmeta%5C%2Fmeta-default.png"%2C"providerName":"Class Central"%2C"summary":"Start learning now with Class Central%5Cu2019s Best Courses Guide (BCGs). Using a well-defined methodology we pick the top courses in different topics%2C helping you get started right away."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-37.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Study AI with MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459757%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-ai-hz.png"%2C"summary":"Harness AI innovation to support your business needs in the 6-week MIT Artificial Intelligence online program."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-58.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Study AI with MIT. 6-Weeks Online"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459757%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"MIT Sloan School of Management"%2C"institutionLogo":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Flogos%5C%2Fmitmee-horz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-ai-hz.png"%2C"summary":"Harness AI innovation to support your business needs in the 6-week MIT Artificial Intelligence online program."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-71.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Study Cybersecurity with Harvard VPAL"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459755%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"Harvard's VPAL"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-vpal-hz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-cyb-hz.png"%2C"summary":"Understand and mitigate cyber risk by learning to identify threats in the Cybersecurity online course from Harvard's VPAL."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-81.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Study Cybersecurity with Harvard VPAL"%2C"courseUrl":"https:%5C%2F%5C%2Fgetsmarter.sjv.io%5C%2Fc%5C%2F259799%5C%2F1459755%5C%2F13499"%2C"providerName":"GetSmarter"%2C"institutionName":"Harvard's VPAL"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fharvard-vpal-hz.png"%2C"imageUrl":"%5C%2Fads%5C%2Fget-smarter-cyb-hz.png"%2C"summary":"Understand and mitigate cyber risk by learning to identify threats in the Cybersecurity online course from Harvard's VPAL."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-39.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"User Experience Design Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fuser-experience-design%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_User%2520Experience%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fux-560x315.jpg"%2C"summary":"Master key UX and human-centered design concepts for understanding users%2C analyzing design%2C and iterating design concepts."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-41.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"User Experience Design Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Ftechnology%5C%2Fuser-experience-design%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Dtech_User%2520Experience%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fux-560x315.jpg"%2C"summary":"Master key UX and human-centered design concepts for understanding users%2C analyzing design%2C and iterating design concepts."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-51.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Virtual Reality and Augmented Reality"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1587063%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-virtual-reality-augmented-reality.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fmit-xpro-hz.png"%2C"institutionName":"MIT xPRO"%2C"summary":"8-week program is ideal for seasoned professionals who want to expand their learning horizons and explore the rapidly growing field of XR technologies."%2C"frequency":1%2C"tableId":"startingthismonth"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-78.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Virtual Reality and Augmented Reality"%2C"courseUrl":"https:%5C%2F%5C%2Femeritus.sjv.io%5C%2Fc%5C%2F259799%5C%2F1587063%5C%2F18013"%2C"imageUrl":"%5C%2Fads%5C%2Femeritus-virtual-reality-augmented-reality.jpg"%2C"providerName":"Emeritus"%2C"institutionLogo":"%5C%2Fads%5C%2Fmit-xpro-hz.png"%2C"institutionName":"MIT xPRO"%2C"summary":"8-week program is ideal for seasoned professionals who want to expand their learning horizons and explore the rapidly growing field of XR technologies."%2C"frequency":1%2C"tableId":"startingthismonth"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-34.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collections
+File Name: C:\Downloaded Web Sites\www.classcentral.com\collections.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/contact
+File Name: C:\Downloaded Web Sites\www.classcentral.com\contact.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/forgotpassword
+File Name: C:\Downloaded Web Sites\www.classcentral.com\forgotpassword.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/help
+File Name: C:\Downloaded Web Sites\www.classcentral.com\help.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/images/fade-gradient.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\fade-gradient.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/institutions
+File Name: C:\Downloaded Web Sites\www.classcentral.com\institutions.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/lists
+File Name: C:\Downloaded Web Sites\www.classcentral.com\lists.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/login
+File Name: C:\Downloaded Web Sites\www.classcentral.com\login.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/login-via-email
+File Name: C:\Downloaded Web Sites\www.classcentral.com\login-via-email.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/opensearch.xml
+File Name: C:\Downloaded Web Sites\www.classcentral.com\opensearch.xml
+Content Type: text/xml
+
+Uri: https://www.classcentral.com/providers
+File Name: C:\Downloaded Web Sites\www.classcentral.com\providers.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/rankings
+File Name: C:\Downloaded Web Sites\www.classcentral.com\rankings.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.classcentral.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.classcentral.com/search
+File Name: C:\Downloaded Web Sites\www.classcentral.com\search.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/signup
+File Name: C:\Downloaded Web Sites\www.classcentral.com\signup.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/signup?signup_source=slidein desktop
+File Name: C:\Downloaded Web Sites\www.classcentral.com\signup-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.classcentral.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/starting-this-month
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=10
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-9.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=100
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-99.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=101
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-100.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=102
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-101.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=103
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-102.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=104
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-103.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=105
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-104.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=106
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-105.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=107
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-106.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=108
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-107.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=109
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-108.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=11
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-10.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=110
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-109.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=111
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-110.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=112
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-111.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=113
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-112.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=114
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-113.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=115
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-114.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=116
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-115.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=117
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-116.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=118
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-117.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=119
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-118.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=12
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-11.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=120
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-119.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=121
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-120.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=122
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-121.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=123
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-122.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=124
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-123.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=125
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-124.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=126
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-125.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=127
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-126.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=128
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-127.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=129
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-128.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=13
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-12.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=130
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-129.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=131
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-130.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=132
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-131.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=133
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-132.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=134
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-133.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=135
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-134.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=136
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-135.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=137
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-136.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=138
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-137.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=139
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-138.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=14
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-13.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=140
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-139.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=141
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-140.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=142
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-141.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=143
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-142.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=144
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-143.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=145
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-144.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=146
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-145.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=147
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-146.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=148
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-147.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=149
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-148.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=15
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-14.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=150
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-149.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=151
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-150.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=152
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-151.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=153
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-152.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=154
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-153.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=155
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-154.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=16
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-15.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=17
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-16.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=18
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-17.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=19
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-18.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=20
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-19.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=21
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-20.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=22
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-21.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=23
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-22.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=24
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-23.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=25
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-24.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=26
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-25.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=27
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-26.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=28
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-27.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=29
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-28.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-2.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=30
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-29.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=31
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-30.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=32
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-31.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=33
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-32.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=34
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-33.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=35
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-34.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=36
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-35.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=37
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-36.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=38
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-37.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=39
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-38.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-3.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=40
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-39.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=41
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-40.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=42
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-41.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=43
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-42.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=44
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-43.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=45
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-44.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=46
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-45.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=47
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-46.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=48
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-47.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=49
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-48.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=5
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-4.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=50
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-49.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=51
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-50.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=52
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-51.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=53
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-52.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=54
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-53.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=55
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-54.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=56
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-55.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=57
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-56.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=58
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-57.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=59
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-58.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=6
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-5.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=60
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-59.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=61
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-60.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=62
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-61.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=63
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-62.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=64
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-63.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=65
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-64.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=66
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-65.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=67
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-66.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=68
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-67.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=69
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-68.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=7
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-6.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=70
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-69.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=71
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-70.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=72
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-71.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=73
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-72.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=74
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-73.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=75
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-74.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=76
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-75.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=77
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-76.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=78
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-77.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=79
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-78.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=8
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-7.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=80
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-79.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=81
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-80.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=82
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-81.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=83
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-82.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=84
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-83.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=85
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-84.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=86
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-85.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=87
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-86.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=88
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-87.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=89
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-88.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=9
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-8.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=90
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-89.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=91
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-90.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=92
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-91.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=93
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-92.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=94
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-93.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=95
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-94.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=96
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-95.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=97
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-96.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=98
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-97.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/starting-this-month?page=99
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month-98.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-17.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-15.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-16.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-6.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-45.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-27.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design&page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-28.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design&page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-29.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=art-and-design&page=5
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-30.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-2.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-40.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-18.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-20.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-21.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=5
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-22.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=business&page=6
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-23.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=cs
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-19.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=cs&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-52.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=cs&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-41.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=cs&page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-42.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=cs&page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-43.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=data-science
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-4.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=education
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-13.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=education&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-51.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=education&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-39.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=engineering
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-8.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=engineering&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-48.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=engineering&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-36.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=health
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-9.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=humanities
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-3.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=humanities&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-44.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=humanities&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-24.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=humanities&page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-25.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=humanities&page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-26.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=infosec
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-14.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=maths
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-10.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=personal-development
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-5.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-7.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-46.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-31.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=3
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-32.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=4
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-33.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=5
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-34.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=6
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-47.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=programming-and-software-development&page=7
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-35.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=science
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-11.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=science&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-49.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=science&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-37.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=social-sciences
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-12.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=social-sciences&page=1
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-50.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects?topic=social-sciences&page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects-38.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/universities
+File Name: C:\Downloaded Web Sites\www.classcentral.com\universities.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/sait.ca
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\sait.ca.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/webpack/analytics.2edefc668ab4db842c41.js
+File Name: C:\Downloaded Web Sites\www.classcentral.com\webpack\analytics.2edefc668ab4db842c41.js
+Content Type: application/javascript
+
+Uri: https://www.classcentral.com/webpack/cc.b277b0643a79d41de954.js
+File Name: C:\Downloaded Web Sites\www.classcentral.com\webpack\cc.b277b0643a79d41de954.js
+Content Type: application/javascript
+
+Uri: https://www.classcentral.com/webpack/head-listing.dfb25a54a87fe948a505.css
+File Name: C:\Downloaded Web Sites\www.classcentral.com\webpack\head-listing.dfb25a54a87fe948a505.css
+Content Type: text/css
+
+Uri: https://www.classcentral.com/write-a-review
+File Name: C:\Downloaded Web Sites\www.classcentral.com\write-a-review.html
+Content Type: text/html
+
